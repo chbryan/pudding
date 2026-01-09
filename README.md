@@ -23,7 +23,3 @@ pip install requests beautifulsoup4 googlesearch-python tweepy
 
 ## Output
 JSON file with timestamp, sources, whereabouts, news, social media.
-
-## Notes
-- Respects rate limits with delays.
-- For CIA-like use; handle ethically.
